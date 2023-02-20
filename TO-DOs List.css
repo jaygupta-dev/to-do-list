@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400&family=Noto+Sans:wght@300;400&display=swap');
+
+/* font-family: 'Heebo', sans-serif;
+font-family: 'Noto Sans', sans-serif; */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Heebo', sans-serif;
+}
+body{
+    background-color:floralwhite;
+}
+.nav-bar{
+    width: 100%;
+    background-color: rgb(67, 67, 67);
+    color: white;
+    text-align: center;
+}
+.txtarea{
+    resize: none;
+    outline: 2px solid rgba(76, 78, 78, 0.17);
+}
+hr{
+    background-color: rgb(41, 42, 42);
+    height: 5px;
+    border-radius: 5px;
+}
